@@ -14,3 +14,10 @@ Enfim, é isso, irei atualizando abaixo quaisquer decisões que eu
 queira direcionar este projeto. No mais, vamos levando!
 
 Att. Gustavo Alegreti.
+
+--------------------------------------------------------------------
+
+1ª Correção: O USUÁRIO DO SISTEMA NÃO TERÁ PERMISSÃO DE CADASTRAR
+UM NOVO USUÁRIO DO SISTEMA E ETC. Essa função ficará apenas para o
+ADMINISTRADOR DO SISTEMA.
+
