@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7hYaNp0M4Xxm0oZ1gPugifq2PXrp+4QLERhU00dRJMf0z8oirTlFFAjNh+Y2yoIy9fsqMG455aew5xWKO9CyXA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Gustavo\\Desktop\\Base\\FormularioCadastro\\FormularioCadastro.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
