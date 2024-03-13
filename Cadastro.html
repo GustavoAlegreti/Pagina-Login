@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+    <style>
+        body{
+            margin: 0; /* Remover margens padrão do body */
+            height: 100vh; /* 100% da altura da viewport */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        h1{
+            color: black;
+            /*border: 1px solid black;*/
+            text-align: center;
+        }
+        .divGeral{
+            border: 1px solid black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .divCentral {
+            border: 1px solid black;
+            text-align: center;
+        }
+        
+        .cadastro, .login {
+            border: 1px solid black;
+            margin: 5px;
+        }
+        
+        .esqSenha {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="divGeral">
+        <div class="divCentral">
+           <h1>Formulário de Cadastro</h1>
+           Email: <br>
+           <input type="email" name="email" class="form" >
+           <br>
+           Senha:
+           <br>
+           <input type="password" name="senha" class="form">
+           <br>
+           Nome Completo:
+           <br>
+           <input type="text" name="nome" class="form">
+           <br>
+           Data de nascimento:
+           <br>
+           <input type="date" name="data">
+           
+           <br><br>
+           <button class="cadastro"><a href="Cadastrado.html">Cadastrar</a></button>
+           <br><br>
+        </div>    
+       </div>
+
+</body>
+</html>

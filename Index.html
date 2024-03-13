@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+    <style>
+        body{
+            margin: 0; /* Remover margens padrão do body */
+            height: 100vh; /* 100% da altura da viewport */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        h1{
+            color: rgb(0, 0, 0);
+            /*border: 1px solid black;*/
+            text-align: center;
+        }
+        .divGeral{
+            border: 1px solid black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .divCentral {
+            /*border: 1px solid black;*/
+            text-align: center;
+        }
+        
+        .cadastro, .login {
+            /*border: 1px solid black;*/
+            margin: 5px;
+        }
+        
+        .esqSenha {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+<div class="divGeral">
+ <div class="divCentral">
+    <h1>M&G</h1>
+    Email: <br>
+    <input type="text" name="email" class="form" >
+    <br>
+    Senha:
+    <br>
+    <input type="password" name="senha" class="form">
+    <br><br>
+    <button class="login">Login</button>
+    <button class="cadastro"><a href="Cadastro.html">Cadastrar</a></button>
+    <br><br>
+    <a href="" class="esqSenha"> Esqueci a senha </a>
+ </div>    
+</div>
+</body>
+</html>
